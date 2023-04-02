@@ -1,10 +1,7 @@
 {"videos":[
 
 "https://www.youtube.com/embed/y0yDpOwo-VM",
-"https://www.youtube.com/embed/aWbHBHbt2J4",
-"https://youtube.com/embed/JKRr0AwrdQk"
-
-
+"https://www.youtube.com/embed/aWbHBHbt2J4"
 
 
 
